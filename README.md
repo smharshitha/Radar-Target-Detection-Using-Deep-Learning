@@ -46,6 +46,7 @@ Waveform/target simulation -> matched filter -> Range-Doppler map -> (a) CA-CFAR
 - ~1 dB detection improvement over CA-CFAR on simulated data
 - 34-150x faster inference with Range-Doppler CNNs
 - Detection accuracy improved in noisy environments while Pfa held within bounds
+  https://colab.research.google.com/drive/1GB9YHOzAr6odq1eg8l-NMKiPqLTGhm8A
 
 ## Limitations
 The included code is a small 1-D educational baseline, not a validated operational radar detector. Real radar data, clutter models, antenna effects, and deployment constraints require separate treatment.
